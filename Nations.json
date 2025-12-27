@@ -1,38 +1,5 @@
-##Latin American Nations
+## Nations of The World
 [	
-    {
-    "name": "Argentina", 
-    "leaderName": "Eva Peron",
-    "adjective": ["Argentine"],
-    "startBias": ["Avoid [Coast]"],
-    "preferredVictoryType": "Scientific",
-    "personality": "Eva Peron",
-
-    "startIntroPart1": "Salutations, Eva Perón, spiritual leader of the Argentinian nation and wife to Juan Perón. Yours is the second largest country in Latin America, and its name has derived from the rumors of the existence of silver mountains; what is certainly rich is history in both pre-columbian and republican eras. With the primitive Hispanic American reality fractured in La Plata Basin due to immigration, its inhabitants have come to be somewhat deal with all the dangers but also with all the advantages of that condition: because of their European roots, they deeply linked the nation with the enduring values of the Old World; and because of their condition of colonials, they link themselves to the rest of the continent, through the folklore of the interior and the old Castilian that unifies the people, feeling somehow the vocation of the Patria Grande San Martín and Bolívar once imagined.",
-    "startIntroPart2": "Evita, your people still remember your deeds to the people in the darkest times, because you defended the rights of Descamisados and Women in your great nation. Now it falls to you to build a nation of hope and justice for everyone. Will you answer the call? Can you build a civilization that will stand the test of time?",
-    "declaringWar": "Prepare for war!",
-    "attacked": "You shall regret this!",
-    "defeated": "Don't cry for me Argentina! The truth is I never left you all through my wild days, my mad existence, I kept my promise don't keep your distance.",
-    "introduction": "This place is the reason for my life, Argentina! Welcome, I'm Eva Perón.",
-    "neutralHello": "Greetings.",
-    "hateHello": "What do you want?",
-    "tradeRequest": "Better hurry, I may change my mind.",
-    "outerColor": [64, 138, 178],
-    "innerColor": [244, 244, 86],
-    "uniqueName": "Pride of the People",
-    "uniques": [
-        "[-50]% construction time for [Pasture] improvements",
-        "[-50]% construction time for [Farm] improvements"
-    ],
-    "cities": [
-        "Buenos Aires","La Plata","Cordoba","Jujuy","Catamarca","La Rioja","Formosa","Parana","Posadas","Neuquen",
-        "Salta","San Juan","San Luis","Santa Fe","Santiago del Estero","Ushuaia","Tucuman","Resistencia","Rawson","Santa Rosa","Viedma",
-        "Ushuaia"
-    ],
-    "spyNames": [
-        "Cortázar","Fontanarrosa","Borges","Laiseca","Crossa","Aira","Piazzolla","Valcárcel","Shakespear","Sabato"
-    ]
-},
 {
     "name": "Assyria",
     "leaderName": "Ashurbanipal",
@@ -132,39 +99,6 @@
     ],
     "spyNames": [
         "Jean-Paul","Martine","Lucien","François","Augustine","Monsieur X","Dr. Dupont","Vipère","Yvette","Renard"
-    ]
-},
-{
-    "name": "Brazil",
-    "leaderName": "Pedro II",
-    "adjective": ["Brazilian"],
-    "startBias": ["Avoid [Coast]","Jungle"],
-    "preferredVictoryType": "Cultural",
-    "personality": "Pedro II",
-
-    "startIntroPart1": "All Hail his most respected and magnanimous Emperor, Pedro II of Brazil. It was with great insight and unshakeable dignity that you ruled the Brazilian empire for over 50 years, ushering in a time of lasting peace and prosperity. Your reputation as a stern, but fair leader was never blemished by controversy, as your unwavering dedication to the people of Brazil provided hope and established the kingdom's position in South America. Your scholarly pursuits and staunch defense of freedom of speech led to the creation of several institutions of higher learning, strengthening Brazil's sense of national identity.",
-    "startIntroPart2": "Revered Emperor Pedro, your people long for a return to the peaceful days when you walked among them, hearing their stories and reassuring them of a bright future. Will you once again lead your kingdom to prosperity? Can you build a civilization that stands the test of time?",
-    "declaringWar": "Your reign will be better under MY domain.",
-    "attacked": "I worry about all those who are affected by this conflict.",
-    "defeated": "This is why I prefer diplomacy to violence...",
-    "introduction": "I am Pedro, Emperor of Brazil. I have little time for pleasantries, what brings you here?",
-    "neutralHello": "Hello.",
-    "hateHello": "What do you want?",
-    "tradeRequest": "Should we prosper through commerce?",
-    "outerColor": [107,208,6],
-    "innerColor": [63,106,64],
-    "uniqueName": "Carnival",
-    "uniques": [
-        "[+6 Culture] from every [Landmark]"
-    ],
-    "cities": [
-        "Rio de Janeiro","Sao Paulo","Salvador","Brasilia","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
-        "Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
-        "Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju",
-        "Cuiaba","Feira de Santana","Juiz de Fora","Joinville","Macapa"
-    ],
-    "spyNames": [
-        "Antonio","Bartolomeu","Domingos","Estevao","Fernao","Francisco","Pascoal","Salvador","Tome","Bianca"
     ]
 },
 {
@@ -3070,36 +3004,6 @@
 		"Zakimi","Nakagusuku","Urasoe","Chatan","Uezu","Nakazato","Gushikawa","Goeku","Yomitanzan","Kunigami",
 		"Iheya","Nago","Kin","Erabu","Yoron","Haneji","Tomigusuku","Kyan","Mabuni","Gushichan",
 		"Shimajiriozato","Makabe","Sashiki","Kochinda","Nishihara","Ozato","Kanegusuku","Shidooke","Araki"]
-        },
-	{
-		"name": "Dai Viet",
-		"leaderName": "Ly Nhan Tong",
-		"adjective": ["Vietnamese"],
-		"startBias": ["Jungle"],
-		"personality": "Ly Nhan Tong",
-		"preferredVictoryType": "Cultural",
-
-		"startIntroPart1": "Ly Nhan Tong, Emperor of Dai Viet. Appreciated as a great emperor of the Lý dynasty, you made important contributions to the development of Đại Việt, especially for establishing Confucianism as the official philosophy of the state, creating Confucian-based imperial exams, and creating schools based on the Confucian system of learning. Oh, Ly Nhan Tong, your empire craves more glory. Can you reform your systems into efficient processes once again? Can you defeat your neighbours in fierce jungle combat till they bend? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "Do not be afraid, I will give mercy to your people if you surrender.",
-		"attacked": "Do you really believe you are capable of taking us on?",
-		"defeated": "My great empire... Fallen.",
-		"introduction": "I greet you kindly, stranger."
-
-		"neutralHello": "Hello.",
-		"hateHello": "There is no reason for us to talk.",
-
-		"tradeRequest": "We both could prosper if we just swallowed our pride and took the help of others, don't you think?",
-
-		"outerColor": [12,54,64],
-		"innerColor": [249,49,0],
-		"favoredReligion": "Confucianism",
-		"uniqueName": "Great Viet State",
-		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion", "[+1 Science] from [Jungle] tiles [in all cities] <starting from the [Medieval era]>"]
-		"cities": ["Thăng Long","Hoa Lư","Đại La","Cổ Loa","Nghệ An","Thanh Hóa","Đông Kinh","Hải Dương","Bắc Ninh","Nam Định",
-		"Hà Đông","Sơn Tây","Lạng Sơn","Quảng Ninh","Ninh Bình","Hòa Bình","Hà Tĩnh","Việt Trì","Vĩnh Yên","Phú Lương",
-		"Song Bình","Thanh Miện","Hưng Yên","Thái Nguyên","Quảng Trị","Quảng Bình","Bình Trị","Lạng Châu","Vạn Xuân","Long Biên",
-		"Tống Bình","Phú Xuân"]
         },
 	{
 		"name": "Sicily",
