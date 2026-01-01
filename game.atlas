@@ -10,7 +10,7 @@ BuildingIcons/Megalithic Temple
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Assembly Line
+NationIcons/Gozo
   rotate: false
   xy: 100, 0
   size: 100, 100
