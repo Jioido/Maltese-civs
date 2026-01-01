@@ -7,7 +7,7 @@
             "maintenance": 1,
             "uniques": [
                 "[+1] [Culture]",
-                "[+1] [Faith] <in cities with population at least [6]>"
+                "[+1] [Faith] <in cities with population at least [6] [Population]>"
             ]
         },
-    
+    ]
