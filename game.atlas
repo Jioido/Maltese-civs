@@ -5,14 +5,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Megalithic Temple
   rotate: false
-  xy: 0, 0
+  xy: 2, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Gozo
   rotate: false
-  xy: 100, 0
+  xy: 102, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
