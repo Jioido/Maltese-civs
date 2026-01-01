@@ -2,12 +2,13 @@
         {
             "name": "Megalithic Temple",
             "replaces": "Shrine",
+            "uniqueTo": "Gozo",    
             "faith": 2,
             "cost": 40,
             "maintenance": 1,
             "uniques": [
-                "[+1] [Culture]",
-                "[+1] [Faith] <in cities with population at least [6] [Population]>"
+                "[+1 Culture]",
+                "[+1 Faith] <in cities with at least [6] [Population]>"
             ]
         },
     ]
