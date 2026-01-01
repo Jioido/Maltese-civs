@@ -1,0 +1,13 @@
+[
+        {
+            "name": "Megalithic Temple",
+            "replaces": "Shrine",
+            "faith": 2,
+            "cost": 40,
+            "maintenance": 1,
+            "uniques": [
+                "[+1] [Culture]",
+                "[+1] [Faith] <in cities with population at least [6]>"
+            ]
+        },
+    
