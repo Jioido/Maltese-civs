@@ -1,0 +1,17 @@
+[
+{
+		"name": "Gozo Militia",
+		"unitType": "Sword",
+		"movement": 4,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+  	"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+100]% Strength <vs [Mounted] units>",
+      "[+20]% Strength <in friendly territory>",
+      "[5] HP when healing <in friendly territory>"
+    ],
+		"attackSound": "metalhit"
+	},
+]
