@@ -17,3 +17,10 @@ BuildingIcons/Megalithic Temple
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Gozo Leigon
+  rotate: false
+  xy: 202, 2
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
