@@ -9,8 +9,8 @@
   	"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+100]% Strength <vs [Mounted] units>",
-      "[+20]% Strength <in friendly territory>",
-      "[5] HP when healing <in friendly territory>"
+      "[+20]% Strength <when fighting in [Friendly] tiles>",
+      "[5] HP when healing <in [Friendly] tiles>"
     ],
 		"attackSound": "metalhit"
 	},
