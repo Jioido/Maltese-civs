@@ -12,21 +12,21 @@ NationIcons/Gozo
   index: -1
 BuildingIcons/Megalithic Temple
   rotate: false
-  xy: 101, 2
+  xy: 100, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gozo Militia
   rotate: false
-  xy: 202, 2
+  xy: 200, 2
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 UnitIcons/Gozo Militia
   rotate: false
-  xy: 284, 2
+  xy: 295, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
