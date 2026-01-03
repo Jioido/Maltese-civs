@@ -17,14 +17,14 @@ BuildingIcons/Megalithic Temple
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Gozo Milita
+TileSets/AbsoluteUnits/Units/Gozo Militia
   rotate: false
   xy: 203, 2
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-UnitIcons/Gozo Milita
+UnitIcons/Gozo Militia
   rotate: false
   xy: 284, 2
   size: 100, 100
