@@ -24,7 +24,7 @@ TileSets/AbsoluteUnits/Units/Gozo Milita
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/UnitIcons/Gozo Milita
+UnitIcons/Gozo Milita
   rotate: false
   xy: 284, 2
   size: 100, 100
