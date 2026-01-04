@@ -90,10 +90,10 @@
 
   "uniqueName": "Roman Administration",
   "uniques": [
-    "[+10]% [Production] toward buildings",
-    "[+1] [Happiness] from [Bath] buildings"
+    "[+10]% Production when constructing [all] buildings [in all cities]",
+    "[+1 Happines] from every [Aqueduct]"
   ],
-  "cities": ["Melite","Domus Romana","San Pawl Milqi","Ta' Kaċċatura","Bur Mgħeż","Mtarfa","Burmarrad","Ta' Bistra","Salina","Il-Misqa","Ta’ Żuta","Ta' Trapna","Xewkija","Ras il-Wardija"
+  "cities": ["Melite","Domus Romana","San Pawl Milqi","Ta' Kaċċatura","Bur Mgħeż","Mtarfa","Burmarrad","Ta' Bistra","Salina","Il-Misqa","Ta' Żuta","Ta' Trapna","Xewkija","Ras il-Wardija"
 ],
 
   "outerColor": [150,40,40],
@@ -101,15 +101,15 @@
 },
 {
   "name": "Maleth",
-  "leaderName": "Punic Suffete",
+  "leaderName": "Hamilcar",
   "adjective": ["Punic"],
-  "startBias": ["Coast"],
-  "preferredVictoryType": "Economic",
+  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+  "preferredVictoryType": "Scientific",
 
   "uniqueName": "Purple Trade",
   "uniques": [
-    "[+2] [Gold] from [Fishing Boats]",
-    "Trade routes yield [+25]% [Gold]"
+    "[+2 Gold] from every [Fishing Boats]",
+    "[+25]% [Gold] from Trade Routes"
   ],
 
 
@@ -118,37 +118,34 @@
 {
   "name": "British Malta",
   "leaderName": "Sir Thomas Maitland",
-  "adjective": ["Maltese"],
-  "startBias": ["Coast"],
+  "adjective": ["British"],
+  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
   "preferredVictoryType": "Diplomatic",
 
   "uniqueName": "Imperial Naval Hub",
   "uniques": [
-    "[+2] [Production] in coastal cities",
-    "[+1] [Gold] from [Harbor] buildings"
+    "[+2 Production] [in all coastal cities]",
+    "[+1 Gold] from every [Harbor]"
   ],
 
-  "cities": ["Barakka","Floriana","Sliema","Ħamrun","Msida","Gżira","Pietà","Pembroke","Ta’ Xbiex","Santa Venera","Swatar","Kappara","Marsa","Manoel","Marsamxett"
+  "cities": ["Barakka","Floriana","Sliema","Ħamrun","Msida","Gżira","Pietà","Pembroke","Ta' Xbiex","Santa Venera","Swatar","Kappara","Marsa","Manoel","Marsamxett"
 ],
 
   "outerColor": [20,40,90],
   "innerColor": [230,230,230]
-}
-  "outerColor": [90,30,90],
-  "innerColor": [240,200,240]
 },
 	{
   "name": "County of Malta",
   "leaderName": "Roger I of Sicily",
-  "adjective": ["Maltese"],
-  "startBias": ["Coastal","Avoid [Tundra]"],
+  "adjective": ["Norman"],
+  "startBias": ["Coastal","Avoid [Tundra]","Avoid [Snow],
   "preferredVictoryType": "Cultural",
   "personality": "Defensive",
 
   "uniqueName": "Island Fiefdom",
   "uniques": [
-    "Free [Walls] in the capital",
-    "[+1] [Food] from [Farm] improvements"
+    "Gain a free [Walls] [in capital]",
+    "[+1 Food] from every [Farm]"
   ],
   "cities": ["Notabile","Zebbug","Siggieui","Dingli","Crendi","Chircop","Safi","Zurrico","Micabba","Attardo","Balzano","Lia","Bingemma","Millieri"
 ],
