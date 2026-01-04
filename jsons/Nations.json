@@ -138,9 +138,8 @@
   "name": "County of Malta",
   "leaderName": "Roger I of Sicily",
   "adjective": ["Norman"],
-  "startBias": ["Coastal","Avoid [Tundra]","Avoid [Snow],
+  "startBias": ["Coastal","Avoid [Tundra]","Avoid [Snow]",
   "preferredVictoryType": "Cultural",
-  "personality": "Defensive",
 
   "uniqueName": "Island Fiefdom",
   "uniques": [
