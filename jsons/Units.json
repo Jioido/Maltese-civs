@@ -26,7 +26,7 @@
         "rangedStrength": 5,
 		"cost": 56,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "[+1 Sight]"],
+		"uniques": ["Cannot enter ocean tiles", "[+1] Sight"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
@@ -46,7 +46,7 @@
 	"hurryCostModifier": 20,
 	"attackSound": "metalhit"
 	"strength": 15,
-    "uniques": ["[+10]% Strength <in [friendly] cities"]
+    "uniques": ["[+10]% Strength <in [friendly] cities>"]
 	},
 	{
     "name": "Hospitaller Knight",
@@ -74,7 +74,7 @@
 	"requiredTech": "Replaceable Parts",
 	"upgradesTo": "Mechanized Infantry",
 	"attackSound": "shot"
-    "uniques": ["[+20]% Strength <in friendly territory>"]
+    "uniques": ["[+20]% Strength <in [friendly] cities>"]
 	},
 	{
 	"name": "Colonial Marine",
