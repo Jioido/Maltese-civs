@@ -17,8 +17,8 @@
             "uniqueTo": "Maleth",
             "specialistSlots": {"Merchant": 1},
             "hurryCostModifier": 25,
-	    "percentStatBonus": {"gold": 25},
-	    "requiredTech": "Currency"
+	    	"percentStatBonus": {"gold": 25},
+	    	"requiredTech": "Currency"
             "gold": 2,
             "uniques": [
                 "[+1 Culture, +2 Gold]"
@@ -31,19 +31,40 @@
             "hurryCostModifier": 25,
             "maintenance": 1,
             "uniques": ["[+2 Food, +1 Culture]","[+25]% Great Person generation [in this city]"],
-	    "requiredTech": "Theology"
+	    	"requiredTech": "Theology"
 	},
 {    
-        ### add other ones
             "name": "Bastioned Fort",
             "replaces": "Arsenal",
             "uniqueTo": "Knights Hospitaller",
+			"cost": 300,
+			"cityStrength": 10,
+			"cityHealth": 30,
+			"hurryCostModifier": 25,
+			"requiredBuilding": "Castle",
+			"requiredTech": "Rifling",
             "uniques": ["[+20]% Production when constructing [Military] units [in all cities]"]
   },
     {
-        "name": "Conference Centre",
+    "name": "Conference Centre",
     "replaces": "Courthouse",
-    "uniques": ["[+2 Culture]", [+2 Gold]"]
-    }
+	"uniqueTo": "Republic of Malta",
+	"maintenance": 4,
+	"hurryCostModifier": 50,
+	"uniques": ["Removes extra unhappiness from annexed cities",
+	"[+2 Culture, +2 Gold]"],
+	"requiredTech": "Mathematics"
+    },
+{
+    "name": "Royal Dockyard",
+	"uniqueTo": "British Malta",
+    "replaces": "Seaport",
+	"hurryCostModifier": 25,
+	"maintenance": 1,
+	"requiredBuilding": "Harbor",
+	"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+35]% Production when constructing [Water] units [in this city],"],
+	"requiredTech": "Navigation"
 
+}
     ]
