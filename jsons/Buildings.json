@@ -26,7 +26,7 @@
         },
         {
             "name": "Roman Villa",
-            "replaces: "Garden",
+            "replaces": "Garden",
             "uniqueTo": "Melite",
             "hurryCostModifier": 25,
             "maintenance": 1,
