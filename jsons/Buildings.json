@@ -11,4 +11,39 @@
                 "[+1 Faith] <in cities with at least [6] [Population]>"
             ]
         },
+        {
+            "name": "Dye Workshop",
+            "replaces": "Market",
+            "uniqueTo": "Maleth",
+            "specialistSlots": {"Merchant": 1},
+            "hurryCostModifier": 25,
+	    "percentStatBonus": {"gold": 25},
+	    "requiredTech": "Currency"
+            "gold": 2,
+            "uniques": [
+                "[+1 Culture, +2 Gold]"
+            ]
+        },
+        {
+            "name": "Roman Villa",
+            "replaces: "Garden",
+            "uniqueTo": "Melite",
+            "hurryCostModifier": 25,
+            "maintenance": 1,
+            "uniques": ["[+2 Food, +1 Culture]","[+25]% Great Person generation [in this city]"],
+	    "requiredTech": "Theology"
+	},
+{    
+        ### add other ones
+            "name": "Bastioned Fort",
+            "replaces": "Arsenal",
+            "uniqueTo": "Knights Hospitaller",
+            "uniques": ["[+20]% Production when constructing [Military] units [in all cities]"]
+  },
+    {
+        "name": "Conference Centre",
+    "replaces": "Courthouse",
+    "uniques": ["[+2 Culture]", [+2 Gold]"]
+    }
+
     ]
