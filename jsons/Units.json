@@ -16,4 +16,92 @@
     ],
 		"attackSound": "metalhit"
 	},
+	{
+	    "name": "Phoenician Sailor",
+    	"replaces": "Trireme",
+		"uniqueTo": "Maleth",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 11,
+        "rangedStrength": 5,
+		"cost": 56,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", ["[+1] Sight"]],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+	{
+	"name": "Auxilia Melitensis",
+    "replaces": "Swordsman",
+	"uniqueTo": "Melite",
+    "unitType": "Sword",
+	"movement": 2,
+	"strength": 15,
+	"cost": 75,
+	"requiredTech": "Iron Working",
+	"upgradesTo": "Longswordsman",
+	"obsoleteTech": "Gunpowder",
+	"requiredResource": "Iron",
+	"hurryCostModifier": 20,
+	"attackSound": "metalhit"
+	"strength": 15,
+    "uniques": ["[+10]% Strength <in [friendly] cities"]
+	},
+	{
+    "name": "Hospitaller Knight",
+    "replaces": "Knight",
+	"uniqueTo": "Knights Hospitaller",	
+	"unitType": "Mounted",
+	"movement": 3,
+	"strength": 22,
+	"cost": 120,
+	"requiredTech": "Chivalry",
+	"obsoleteTech": "Military Science",
+	"upgradesTo": "Cavalry",
+	"requiredResource": "Horses",
+	"uniques": ["Can move after attacking","No defensive terrain bonus","[-20]% Strength <vs cities> <when attacking>", "[+25]% Strength <when defending>"],
+	"attackSound": "horse"
+	},
+	{
+	"name": "Peacekeeping Force",
+    "replaces": "Infantry",
+	"uniqueTo": "Republic of Malta",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 50,
+	"cost": 320,
+	"requiredTech": "Replaceable Parts",
+	"upgradesTo": "Mechanized Infantry",
+	"attackSound": "shot"
+    "uniques": ["[+20]% Strength <in friendly territory>"]
+	},
+	{
+	"name": "Colonial Marine",
+    "replaces": "Rifleman",
+	"uniqueTo": "British Malta",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 35,
+	"cost": 225,
+	"requiredTech": "Rifling",
+	"obsoleteTech": "Replaceable Parts",
+	"upgradesTo": "Infantry",
+	"attackSound": "shot"
+    "uniques": ["May travel on Water tiles without embarking, May attack when embarked"]
+	},
+	{
+    "name": "County Spearmen",
+    "replaces": "Spearman",
+	"uniqueTo": "County of Malta",
+	"unitType": "Sword",
+	"movement": 2,
+	"strength": 12,
+	"cost": 56,
+	"requiredTech": "Bronze Working",
+	"obsoleteTech": "Civil Service",
+	"upgradesTo": "Pikeman",
+	"uniques": ["[+100]% Strength <vs [Mounted] units>","[+20]% Strength <in [in all cities] cities>"],
+	"attackSound": "metalhit"
+	}
 ]
