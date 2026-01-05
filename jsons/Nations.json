@@ -50,8 +50,9 @@
 
   "uniqueName": "Neutral Crossroads",
   "uniques": [
-    "[+2] [Gold] from every [Public School]",
-    "[+1] [Influence] with City-States per turn"
+    "[+2 Gold] from every [Public School]",
+    "Resting point for Influence with City-States is increased by [1] <every [1] turns>",
+	"Gifts of Gold to City-States generate [+20]% more Influence"
   ],
 
   "cities": ["Valletta","Siġġiewi","Mosta","Naxxar","Mellieħa","Buġibba","St. Julian's","Marsaxlokk","Żejtun","Mqabba","Fgura","Qawra","Iklin","Qormi","Swieqi","Bulebel"
@@ -70,7 +71,7 @@
 
   "uniqueName": "Bastion of Christendom",
   "uniques": [
-    "Free [Walls] and [Castle] in all cities",
+    "Gain a free [Walls] [in all cities]","Gain a free [Castle] [in all cities]",
     "[+15]% Strength <when defending>"
   ],
   "cities": ["Borgo","Isola","Bormola","Paola","Zabbaro","Tarsien","Luca","Berchercara","Santa Lucia","Calcara","Scala","Sciara","Asciac","Fighura","Millieri"
@@ -90,7 +91,7 @@
   "uniqueName": "Roman Administration",
   "uniques": [
     "[+10]% Production when constructing [all] buildings [in all cities]",
-    "[+1 Happines] from every [Aqueduct]"
+    "[+1 Happiness] from every [Aqueduct]"
   ],
   "cities": ["Melite","Domus Romana","San Pawl Milqi","Ta' Kaċċatura","Bur Mgħeż","Mtarfa","Burmarrad","Ta' Bistra","Salina","Il-Misqa","Ta' Żuta","Ta' Trapna","Xewkija","Ras il-Wardija"
 ],
