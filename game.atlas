@@ -5,28 +5,70 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Gozo
   rotate: false
-  xy: 0, 2
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Knights Hospitaller
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/County of Malta
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Republic of Malta
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/British Malta
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Maleth
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Melite
+  rotate: false
+  xy: 600, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Megalithic Temple
   rotate: false
-  xy: 100, 2
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gozo Militia
   rotate: false
-  xy: 200, 2
+  xy: 200, 0
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 UnitIcons/Gozo Militia
   rotate: false
-  xy: 295, 2
+  xy: 295, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
