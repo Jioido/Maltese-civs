@@ -75,7 +75,7 @@
   "cities": ["Valletta","Mosta","Naxxar","Mellieħa","Buġibba","St. Julian's","Marsaxlokk","Żejtun","Mqabba","Fgura","Qawra","Iklin","Qormi","Swieqi","Bulebel","Birżebbuġa"
   ],
 		 "spyNames": [
-        "Toni","Karmenu","Ġużi","Ġakbu","Pinu","Pawlu","Marija","Marta","Nazju","Ġanni"
+        "Luca","Noah","Matteo","Emma","Luċija","Paul","Marta","Jack","Gabriel","Jacob"
     ]
 
   "outerColor": [180,0,0],
@@ -94,7 +94,7 @@
 "declaringWar": "For God and Saint John!",
 "attacked": "The fortress shall not fall!",
 "defeated": "The Order is scattered... but not forgotten.",
-"introduction": "Welcome, pilgrim—or foe.",
+"introduction": "Welcome, pilgrim - or foe.",
 "neutralHello": "Peace be with you.",
 "hateHello": "Watch your words in sacred lands.",
 "tradeRequest": "Perhaps cooperation serves God's will.",
@@ -112,7 +112,9 @@
   ],
   "cities": ["Borgo","Isola","Bormola","Paola","Zabbaro","Tarsien","Luca","Berchercara","Santa Lucia","Calcara","Scala","Sciara","Asciac","Fighura","Millieri"
 ],
-
+		 "spyNames": [
+        "Paolo","Aloisio","Manann","Amato","Giovanni","Gerit","Marigwann","Alfonso","Vincenzo","Elena"
+    ]
   "outerColor": [200,20,20],
   "innerColor": [255,255,255]
 },
@@ -148,7 +150,9 @@
   ],
   "cities": ["Melite","Domus Romana","San Pawl Milqi","Ta' Kaċċatura","Bur Mgħeż","Mtarfa","Burmarrad","Ta' Bistra","Salina","Il-Misqa","Ta' Żuta","Ta' Trapna","Xewkija","Ras il-Wardija"
 ],
-
+		 "spyNames": [
+        "Marcus","Julia","Titus","Lucius","Valentina","Cassius","Magnus","Leo","Octavia","Claudia"
+    ]
   "outerColor": [150,40,40],
   "innerColor": [245,215,160]
 },
@@ -185,6 +189,9 @@
 
   "cities": ["Maleth","Gaulos","Tas-Silġ","Marsa","Salina","Kordin","Borġ in-Nadur","Xemxija","Ras il-Qammieħ","Għar Mirdum","Wardija","Baħrija","Qlejgħa","Il-Qortin"
     ],
+			 "spyNames": [
+        "Hiram","Adonibaal","Itthobaal","Tanit","Baaliaton","Elissa","Hanno","Eshmuniaton","Hannibal","Abdashtart"
+    ]
   "outerColor": [90,30,90],
   "innerColor": [240,200,240]
 	
@@ -224,6 +231,9 @@
 
   "outerColor": [20,40,90],
   "innerColor": [230,230,230]
+ "spyNames": [
+ "Ġorġ","Joseph","Twanny","Antonio","Teresa","Stella","Alwiġi","Manwel","Giuseppe","Karmenu"
+ ]
 },
 	{
 "name": "County of Malta",
@@ -256,7 +266,9 @@
   ],
   "cities": ["Notabile","Zebbug","Siggieui","Dingli","Crendi","Chircop","Safi","Zurrico","Micabba","Attardo","Balzano","Lia","Bingemma","Millieri"
 ],
-
+		 "spyNames": [
+        "William","Chauncey","Richard","Henry","Adeline","Geoffrey","Jacotte","Robert","Alcide","Jeannot"
+		 ]
   "outerColor": [140,80,40],
   "innerColor": [240,220,180]
 }
