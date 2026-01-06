@@ -12,42 +12,42 @@ NationIcons/Gozo
   index: -1
 NationIcons/Knights Hospitaller
   rotate: false
-  xy: 100, 0
+  xy: 0, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/County of Malta
   rotate: false
-  xy: 200, 0
+  xy: 0, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Republic of Malta
   rotate: false
-  xy: 300, 0
+  xy: 0, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/British Malta
   rotate: false
-  xy: 400, 0
+  xy: 0, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Maleth
   rotate: false
-  xy: 500, 0
+  xy: 0, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Melite
   rotate: false
-  xy: 600, 0
+  xy: 0, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
