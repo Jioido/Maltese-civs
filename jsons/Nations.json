@@ -41,12 +41,29 @@
     ]
 },
     {
-  "name": "Republic of Malta",
-  "leaderName": "Giorgio Borg Olivier",
-  "adjective": ["Maltese"],
-  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
-  "preferredVictoryType": "Diplomatic",
-  "favoredReligion": "Christianity",
+"name": "Republic of Malta",
+"leaderName": "Giorgio Borg Olivier",
+"adjective": ["Maltese"],
+"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+"preferredVictoryType": "Diplomatic",
+"favoredReligion": "Christianity",
+
+"startIntroPart1": "Welcome, Prime Minister of Malta, a modern republic forged from centuries of rule by others. From fortress island to independent nation, Malta now stands as a bridge between continents, cultures, and diplomacy.",
+"startIntroPart2": "Will you guide Malta toward prosperity, neutrality, and unity? Or will old divisions return? The future is in your hands.",
+
+"declaringWar": "This is not our wish - but we will defend ourselves.",
+"attacked": "So peace has failed.",
+"defeated": "Malta endures, even in defeat.",
+"introduction": "Welcome to the Republic of Malta.",
+"neutralHello": "Hello, and welcome.",
+"hateHello": "We have little patience today.",
+"tradeRequest": "Perhaps cooperation benefits us both.",
+"neutralLetsHearIt": "Go on, we’re listening.",
+"hateLetsHearIt": ["Make it quick.", "What do you want?" ],
+"neutralNo": ["Sorry, we must decline.", "That won’t work for us."],
+"neutralYes": ["Agreed.", "This is good for Malta."],
+"hateNo": ["No chance.", "Absolutely not."],
+"hateYes": ["Fine.", "Let’s get this over with."]
 
   "uniqueName": "Neutral Crossroads",
   "uniques": [
@@ -55,22 +72,38 @@
 	"Gifts of Gold to City-States generate [+20]% more Influence"
   ],
 
-  "cities": ["Valletta","Siġġiewi","Mosta","Naxxar","Mellieħa","Buġibba","St. Julian's","Marsaxlokk","Żejtun","Mqabba","Fgura","Qawra","Iklin","Qormi","Swieqi","Bulebel"
+  "cities": ["Valletta,"Mosta","Naxxar","Mellieħa","Buġibba","St. Julian's","Marsaxlokk","Żejtun","Mqabba","Fgura","Qawra","Iklin","Qormi","Swieqi","Bulebel","Birżebbuġa"
   ],
 
   "outerColor": [180,0,0],
   "innerColor": [245,245,245]
 },
     {
-  "name": "Knights Hospitaller",
-  "leaderName": "Jean Parisot de la Valette",
-  "adjective": ["Hospitaller"],
-  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
-  "preferredVictoryType": "Domination",
-  "favoredReligion": "Christianity",
+"name": "Knights Hospitaller",
+"leaderName": "Jean Parisot de la Valette",
+"adjective": ["Hospitaller"],
+"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+"preferredVictoryType": "Domination",
+"favoredReligion": "Christianity",
+"startIntroPart1": "God wills it! Grand Master of the Order of Saint John, defenders of Malta and champions of Christendom. From Rhodes to Malta, your knights built bastions, hospitals, and fleets, standing firm against Ottoman sieges and corsairs alike.",
+"startIntroPart2": "Will you defend the faith and the island once more? Or will the cross fall beneath cannon fire? The faithful await your command.",
 
-  "uniqueName": "Bastion of Christendom",
-  "uniques": [
+"declaringWar": "For God and Saint John!",
+"attacked": "The fortress shall not fall!",
+"defeated": "The Order is scattered... but not forgotten.",
+"introduction": "Welcome, pilgrim—or foe.",
+"neutralHello": "Peace be with you.",
+"hateHello": "Watch your words in sacred lands.",
+"tradeRequest": "Perhaps cooperation serves God’s will.",
+"neutralLetsHearIt": "We will listen.",
+"hateLetsHearIt": ["Speak carefully.", "What do you seek?" ],
+"neutralNo": ["This cannot be permitted.", "We refuse."],
+"neutralYes": ["Then it is agreed.", "May this serve righteousness."],
+"hateNo": ["Never.", "This is heresy."],
+"hateYes": ["We accept, but reluctantly.", "God forgive this."]
+  
+"uniqueName": "Bastion of Christendom",
+"uniques": [
     "Gain a free [Walls] [in all cities]","Gain a free [Castle] [in all cities]",
     "[+15]% Strength <when defending>"
   ],
@@ -81,12 +114,29 @@
   "innerColor": [255,255,255]
 },
     {
-  "name": "Melite",
-  "leaderName": "Saint Publius",
-  "adjective": ["Roman"],
-  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
-  "preferredVictoryType": "Scientific",
-  "favoredReligion": "Christianity",
+"name": "Melite",
+"leaderName": "Saint Publius",
+"adjective": ["Roman"],
+"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+"preferredVictoryType": "Scientific",
+"favoredReligion": "Christianity",
+
+"startIntroPart1": "Ave, Governor of Melite Saint Publius, Roman place of order and law. Under Rome, Malta flourished as a municipium, its roads paved, its harbors secured, and its people bound by Roman citizenship. Temples, villas, and baths stood as proof of imperial stability.",
+"startIntroPart2": "Will you uphold Roman discipline and prosperity? Or will Melite fade into provincial obscurity? The Senate watches.",
+
+"declaringWar": "Rome does not hesitate when order is threatened.",
+"attacked": "So, you challenge Roman authority.",
+"defeated": "Melite falls... but Rome is eternal.",
+"introduction": "You stand before Roman Melite.",
+"neutralHello": "Salve.",
+"hateHello": "You test our patience.",
+"tradeRequest": "Let us discuss terms beneficial to the state.",
+"neutralLetsHearIt": "Proceed.",
+"hateLetsHearIt": ["Speak plainly.", "What is this?" ],
+"neutralNo": ["This is not acceptable.", "Rome declines."],
+"neutralYes": ["Approved.", "This serves Rome."],
+"hateNo": ["Denied.", "Unacceptable."],
+"hateYes": ["Granted - for now.", "Do not presume again."]
 
   "uniqueName": "Roman Administration",
   "uniques": [
@@ -100,11 +150,28 @@
   "innerColor": [245,215,160]
 },
 {
-  "name": "Maleth",
-  "leaderName": "Hamilcar",
-  "adjective": ["Punic"],
-  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
-  "preferredVictoryType": "Scientific",
+"name": "Maleth",
+"leaderName": "Hamilcar",
+"adjective": ["Punic"],
+"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+"preferredVictoryType": "Scientific",
+	
+"startIntroPart1": "Honor to you, Hamilcar, Suffete of Maleth, island of merchants and mariners. Founded by Phoenician traders, Malta became a Punic hub of shipyards and harbors. From Tyre and Carthage came gods, the alphabet, and many new items, carried across the sea by skilled sailors.",
+"startIntroPart2": "Will you restore Maleth as a beacon of trade and devotion? Will your ships once more rule the waves? The winds favor the bold.",
+
+"declaringWar": "The sea carries our wrath to your shores.",
+"attacked": "Then trade gives way to blood.",
+"defeated": "The harbors fall silent... for now.",
+"introduction": "Welcome, stranger. You stand in Maleth.",
+"neutralHello": "Peace and profit to you.",
+"hateHello": "You disturb our waters.",
+"tradeRequest": "Let us bargain, as civilized peoples do.",
+"neutralLetsHearIt": "Speak your offer.",
+"hateLetsHearIt": ["Be quick.", "We are listening... carefully."],
+"neutralNo": ["This deal brings no profit.", "We decline."],
+"neutralYes": ["A wise exchange.", "Trade binds us."],
+"hateNo": ["Never.", "You insult us."],
+"hateYes": ["We accept, but remember this.", "Only because it benefits us."]
 
   "uniqueName": "Purple Trade",
   "uniques": [
@@ -120,11 +187,28 @@
 	
 },
 {
-  "name": "British Malta",
-  "leaderName": "Sir Thomas Maitland",
-  "adjective": ["British"],
-  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
-  "preferredVictoryType": "Diplomatic",
+"name": "British Malta",
+"leaderName": "Sir Thomas Maitland",
+"adjective": ["British"],
+"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+"preferredVictoryType": "Diplomatic",
+
+"startIntroPart1": "Greetings, Sir Thomas Maitland, Governor of Malta, jewel of the British Mediterranean. Seized during the struggle against Napoleon, Malta became a vital naval fortress of the Empire, guarding sea lanes from Gibraltar to Suez. Dockyards, coaling stations, and red-coated garrisons turned the island into an imperial stronghold.",
+"startIntroPart2": "Will you rule with order and industry, projecting British power across the seas? Or will the empire falter under the weight of history? The world watches Britannia’s outpost.",
+
+"declaringWar": "For Crown and Empire, we go to war.",
+"attacked": "An attack on Malta is an attack on Britain.",
+"defeated": "The flag is lowered... but the Empire endures.",
+"introduction": "Welcome to British Malta. Let us be civil.",
+"neutralHello": "Good day to you.",
+"hateHello": "I trust you have a reason for this visit.",
+"tradeRequest": "Perhaps a mutually beneficial arrangement?",
+"neutralLetsHearIt": "Let us hear it, then.",
+"hateLetsHearIt": ["Make it brief.", "Very well, speak."],
+"neutralNo": ["I’m afraid that won’t do.", "We must decline."],
+"neutralYes": ["Splendid. A good agreement.", "Quite satisfactory."],
+"hateNo": ["Out of the question.", "That is unacceptable."],
+"hateYes": ["We’ll agree—for now.", "Do not press your luck."]
 
   "uniqueName": "Imperial Naval Hub",
   "uniques": [
@@ -139,11 +223,28 @@
   "innerColor": [230,230,230]
 },
 	{
-  "name": "County of Malta",
-  "leaderName": "Roger I",
-  "adjective": ["Norman"],
-  "startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
-  "preferredVictoryType": "Cultural",
+"name": "County of Malta",
+"leaderName": "Roger I",
+"adjective": ["Norman"],
+"startBias": ["Coast","Avoid [Tundra]","Avoid [Snow]"],
+"preferredVictoryType": "Cultural",
+
+"startIntroPart1": "Hail to you, noble Count of Malta, Roger the First, vassal of the Crown of Sicily and guardian of these strategic islands. From Arab inheritance to Norman rule, Malta has long stood as a crossroads of empires, governed through feudal law and fortified towns. Under Aragonese banners, your county guarded the central sea, balancing loyalty, tribute, and survival.",
+"startIntroPart2": "Will you strengthen Malta’s feudal bonds and turn duty into prosperity? Or will your island be swallowed by greater powers once more? The Mediterranean awaits your judgment.",
+
+"declaringWar": "By right of crown and sword, we march to war.",
+"attacked": "So the peace is broken. The county shall answer.",
+"defeated": "Our fief falls, yet history will remember our rule.",
+"introduction": "Welcome to the County of Malta. Speak with respect.",
+"neutralHello": "The count acknowledges your presence.",
+"hateHello": "State your business quickly.",
+"tradeRequest": "Perhaps this exchange will serve us both.",
+"neutralLetsHearIt": "Proceed. What do you propose?",
+"hateLetsHearIt": ["Speak, but do not waste my time.", "Very well. Say it."],
+"neutralNo": ["That cannot be agreed upon.", "The county declines."],
+"neutralYes": ["This is acceptable.", "The crown approves."],
+"hateNo": ["Absolutely not.", "You ask too much."],
+"hateYes": ["We accept... reluctantly.", "Do not mistake this for goodwill."]
 
   "uniqueName": "Island Fiefdom",
   "uniques": [
