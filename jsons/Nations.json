@@ -187,7 +187,7 @@
 
   ],
 
-  "cities": ["Maleth","Gaulos","Tas-Silġ","Marsa","Salina","Kordin","Borġ in-Nadur","Xemxija","Ras il-Qammieħ","Għar Mirdum","Wardija","Baħrija","Qlejgħa","Il-Qortin"
+  "cities": ["Maleth","Gaulos","Tas-Silġ","Marsa","Salina","Kordin","Borġ in-Nadur","Xemxija","Ras il-Qammieħ","Għar Mirdum","Wardija","Baħrija","Qlejgħa","Qortin"
     ],
 			 "spyNames": [
         "Hiram","Adonibaal","Itthobaal","Tanit","Baaliaton","Elissa","Hanno","Eshmuniaton","Hannibal","Abdashtart"
@@ -218,7 +218,7 @@
 "neutralNo": ["I'm afraid that won't do.", "We must decline."],
 "neutralYes": ["Splendid. A good agreement.", "Quite satisfactory."],
 "hateNo": ["Out of the question.", "That is unacceptable."],
-"hateYes": ["We'll agree—for now.", "Do not press your luck."]
+"hateYes": ["We'll agree - for now.", "Do not press your luck."]
 
   "uniqueName": "Imperial Naval Hub",
   "uniques": [
@@ -226,7 +226,7 @@
     "[+1 Gold] from every [Harbor]"
   ],
 
-  "cities": ["Barakka","Floriana","Sliema","Ħamrun","Msida","Gżira","Pietà","Pembroke","Ta' Xbiex","Santa Venera","Swatar","Kappara","Marsa","Manoel","Marsamxett"
+  "cities": ["The Barrakkas","Floriana","Sliema","Ħamrun","Msida","Gżira","Pietà","Pembroke","Ta' Xbiex","Santa Venera","Swatar","Kappara","Marsa","Manoel","Marsamxett"
 ],
 
   "outerColor": [20,40,90],
