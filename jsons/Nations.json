@@ -58,12 +58,12 @@
 "neutralHello": "Hello, and welcome.",
 "hateHello": "We have little patience today.",
 "tradeRequest": "Perhaps cooperation benefits us both.",
-"neutralLetsHearIt": "Go on, we’re listening.",
+"neutralLetsHearIt": "Go on, we're listening.",
 "hateLetsHearIt": ["Make it quick.", "What do you want?" ],
-"neutralNo": ["Sorry, we must decline.", "That won’t work for us."],
+"neutralNo": ["Sorry, we must decline.", "That won't work for us."],
 "neutralYes": ["Agreed.", "This is good for Malta."],
 "hateNo": ["No chance.", "Absolutely not."],
-"hateYes": ["Fine.", "Let’s get this over with."]
+"hateYes": ["Fine.", "Let's get this over with."]
 
   "uniqueName": "Neutral Crossroads",
   "uniques": [
@@ -97,7 +97,7 @@
 "introduction": "Welcome, pilgrim—or foe.",
 "neutralHello": "Peace be with you.",
 "hateHello": "Watch your words in sacred lands.",
-"tradeRequest": "Perhaps cooperation serves God’s will.",
+"tradeRequest": "Perhaps cooperation serves God's will.",
 "neutralLetsHearIt": "We will listen.",
 "hateLetsHearIt": ["Speak carefully.", "What do you seek?" ],
 "neutralNo": ["This cannot be permitted.", "We refuse."],
@@ -197,7 +197,7 @@
 "preferredVictoryType": "Diplomatic",
 
 "startIntroPart1": "Greetings, Sir Thomas Maitland, Governor of Malta, jewel of the British Mediterranean. Seized during the struggle against Napoleon, Malta became a vital naval fortress of the Empire, guarding sea lanes from Gibraltar to Suez. Dockyards, coaling stations, and red-coated garrisons turned the island into an imperial stronghold.",
-"startIntroPart2": "Will you rule with order and industry, projecting British power across the seas? Or will the empire falter under the weight of history? The world watches Britannia’s outpost.",
+"startIntroPart2": "Will you rule with order and industry, projecting British power across the seas? Or will the empire falter under the weight of history? The world watches Britannia's outpost.",
 
 "declaringWar": "For Crown and Empire, we go to war.",
 "attacked": "An attack on Malta is an attack on Britain.",
@@ -208,10 +208,10 @@
 "tradeRequest": "Perhaps a mutually beneficial arrangement?",
 "neutralLetsHearIt": "Let us hear it, then.",
 "hateLetsHearIt": ["Make it brief.", "Very well, speak."],
-"neutralNo": ["I’m afraid that won’t do.", "We must decline."],
+"neutralNo": ["I'm afraid that won't do.", "We must decline."],
 "neutralYes": ["Splendid. A good agreement.", "Quite satisfactory."],
 "hateNo": ["Out of the question.", "That is unacceptable."],
-"hateYes": ["We’ll agree—for now.", "Do not press your luck."]
+"hateYes": ["We'll agree—for now.", "Do not press your luck."]
 
   "uniqueName": "Imperial Naval Hub",
   "uniques": [
@@ -233,7 +233,7 @@
 "preferredVictoryType": "Cultural",
 
 "startIntroPart1": "Hail to you, noble Count of Malta, Roger the First, vassal of the Crown of Sicily and guardian of these strategic islands. From Arab inheritance to Norman rule, Malta has long stood as a crossroads of empires, governed through feudal law and fortified towns. Under Aragonese banners, your county guarded the central sea, balancing loyalty, tribute, and survival.",
-"startIntroPart2": "Will you strengthen Malta’s feudal bonds and turn duty into prosperity? Or will your island be swallowed by greater powers once more? The Mediterranean awaits your judgment.",
+"startIntroPart2": "Will you strengthen Malta's feudal bonds and turn duty into prosperity? Or will your island be swallowed by greater powers once more? The Mediterranean awaits your judgment.",
 
 "declaringWar": "By right of crown and sword, we march to war.",
 "attacked": "So the peace is broken. The county shall answer.",
