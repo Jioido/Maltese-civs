@@ -72,8 +72,11 @@
 	"Gifts of Gold to City-States generate [+20]% more Influence"
   ],
 
-  "cities": ["Valletta,"Mosta","Naxxar","Mellieħa","Buġibba","St. Julian's","Marsaxlokk","Żejtun","Mqabba","Fgura","Qawra","Iklin","Qormi","Swieqi","Bulebel","Birżebbuġa"
+  "cities": ["Valletta","Mosta","Naxxar","Mellieħa","Buġibba","St. Julian's","Marsaxlokk","Żejtun","Mqabba","Fgura","Qawra","Iklin","Qormi","Swieqi","Bulebel","Birżebbuġa"
   ],
+		 "spyNames": [
+        "Toni","Karmenu","Ġużi","Ġakbu","Pinu","Pawlu","Marija","Marta","Nazju","Ġanni"
+    ]
 
   "outerColor": [180,0,0],
   "innerColor": [245,245,245]
